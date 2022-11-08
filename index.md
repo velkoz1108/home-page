@@ -1,13 +1,13 @@
 ---
-title: Jekyll Serif Theme
+title: Eden Wang
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: 欢迎来到Eden的个人主页.
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# Eden - 程序猿一枚.
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Eden很懒，什么都没有写呢.
