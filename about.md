@@ -1,7 +1,7 @@
 ---
-title: About
+title: 关于
 layout: page
-description: About
+description: 关于我
 bodyClass: page-about
 ---
 

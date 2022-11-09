@@ -1,12 +1,12 @@
 ---
-title: Services
+title: 知识点
 layout: services
-description: Services
+description: 知识点
 intro_image: "images/illustrations/reading.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Services that grow with your business
+# 好记性不如烂笔头
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+把每次新学到的知识点总结记录下来，方便自己日后查看，也可以给有需要的小伙伴参考。
